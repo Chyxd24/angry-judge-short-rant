@@ -7,8 +7,8 @@ import os
 
 OUT_DIR = "/output"
 RANT = ("The group chat is not a filing system. Nobody has ever wanted to "
-        "find a password by scrolling 400 messages of memes at midnight. "
-        "And yet. Every time. Send it here, lose it forever, ask again.")
+        "find a password by scrolling 400 memes at midnight. And yet, every "
+        "time: send it here, lose it forever, ask again. Use a notes app.")
 
 
 def main() -> None:
